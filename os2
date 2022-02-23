@@ -1,0 +1,51 @@
+/* Ostrich Sans */
+
+@font-face {
+	font-family: 'Ostrich Sans';
+	src: url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-black.eot');
+	src: url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-black.woff') format('woff'), 
+  url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-black.ttf') format('truetype'), 
+  url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-black.svg') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Ostrich Sans';
+	src: url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-bold.eot');
+	src: url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-bold.woff') format('woff'), 
+  url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-bold.ttf') format('truetype'), 
+  url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Ostrich Sans';
+	src: url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-regular.eot');
+	src: url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-regular.woff') format('woff'), 
+  url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-regular.ttf') format('truetype'), 
+  url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Ostrich Sans';
+	src: url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-light.eot');
+	src: url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-light.woff') format('woff'), 
+  url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-light.ttf') format('truetype'), 
+  url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-light.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+/* Ostrich Sans Dashed */
+
+@font-face {
+	font-family: 'Ostrich Sans Dashed';
+	src: url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-dashed.eot');
+	src: url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-dashed.woff') format('woff'), 
+  url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-dashed.ttf') format('truetype'), 
+  url('https://cdn.jsdelivr.net/gh/theleagueof/ostrich-sans@a949d40d0576d12ba26e2a45e19c91fd0228c964/webfonts/ostrich-sans-dashed.svg') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
